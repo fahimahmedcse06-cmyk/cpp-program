@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+// this is my C++
 class Queue {
 private:
     int arr[100];
